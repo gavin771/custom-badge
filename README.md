@@ -8,9 +8,9 @@
 
 ### Examples
 Default: https://hidden-forest-44927.herokuapp.com/generate ![Default](https://hidden-forest-44927.herokuapp.com/generate)
-Flat/red: https://hidden-forest-44927.herokuapp.com/generate?template=flat&color=red
-Plastic/blue: https://hidden-forest-44927.herokuapp.com/generate?template=plastic&color=blue
-Social/grey :https://hidden-forest-44927.herokuapp.com/generate?template=social&color=grey
+Flat/red: https://hidden-forest-44927.herokuapp.com/generate?template=flat&color=red ![Flat/Red](https://hidden-forest-44927.herokuapp.com/generate?template=flat&color=red)
+Plastic/blue: https://hidden-forest-44927.herokuapp.com/generate?template=plastic&color=blue ![Plastic/Blue](https://hidden-forest-44927.herokuapp.com/generate?template=plastic&color=blue)
+Social/grey: https://hidden-forest-44927.herokuapp.com/generate?template=social&color=grey ![Social/Grey](https://hidden-forest-44927.herokuapp.com/generate?template=social&color=grey)
 
 
 N.B. The returned svg for this is served from Heroku, so if the dyno is sleeping the initial load may be slow...
