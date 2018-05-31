@@ -7,6 +7,7 @@
 	* template - Defaults to 'flat-square' [flat,plastic,flat-square,social]
 
 ### Examples
+(Default: https://hidden-forest-44927.herokuapp.com/generate)[https://hidden-forest-44927.herokuapp.com/generate]
 
 
-The returned svg for this is served from Heroku, so if the dyno is sleeping the initial load may be slow...
+N.B. The returned svg for this is served from Heroku, so if the dyno is sleeping the initial load may be slow...
