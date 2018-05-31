@@ -8,8 +8,11 @@
 
 ### Examples
 Default: https://hidden-forest-44927.herokuapp.com/generate ![Default](https://hidden-forest-44927.herokuapp.com/generate)
+<br/>
 Flat/red: https://hidden-forest-44927.herokuapp.com/generate?template=flat&color=red ![Flat/Red](https://hidden-forest-44927.herokuapp.com/generate?template=flat&color=red)
+<br/>
 Plastic/blue: https://hidden-forest-44927.herokuapp.com/generate?template=plastic&color=blue ![Plastic/Blue](https://hidden-forest-44927.herokuapp.com/generate?template=plastic&color=blue)
+<br/>
 Social/grey: https://hidden-forest-44927.herokuapp.com/generate?template=social&color=grey ![Social/Grey](https://hidden-forest-44927.herokuapp.com/generate?template=social&color=grey)
 
 
