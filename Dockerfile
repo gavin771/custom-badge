@@ -1,5 +1,7 @@
 # Create image based on the official Node 6 image from the dockerhub
-FROM node:9
+FROM node
+
+ENV PORT 3000
 
 # Create a directory where our app will be placed
 RUN mkdir -p /usr/apps/custom-badge
