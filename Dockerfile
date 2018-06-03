@@ -1,6 +1,7 @@
 # Create image based on the official Node 6 image from the dockerhub
 FROM node
 
+# Setting up environment variable
 ENV PORT 3000
 
 # Create a directory where our app will be placed
@@ -13,10 +14,10 @@ WORKDIR /usr/apps/custom-badge
 COPY package.json /usr/apps/custom-badge
 
 # Install dependecies
-RUN npm install
+RUN npm i
 
 # Get all the code needed to run the app
-COPY . /usr/apps/custom-badge
+COPY ./server.js /usr/apps/custom-badge
 
 # Expose the port the app runs in
 EXPOSE 3000
